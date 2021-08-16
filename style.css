@@ -11,6 +11,7 @@ header {
     width: 100%;
     top: 0px;
     left: 0px;
+    padding-bottom: 6px;
 }
 
 main {
@@ -55,4 +56,9 @@ main {
 
 #button:hover {
     box-shadow: none;
+    outline: none;
+}
+
+#alert {
+    font-weight: bold;
 }
